@@ -1,8 +1,8 @@
-# AVE Variant Scoring Tools and Methods (VSTM) Workstream
+# AVE Variant Scoring Tools, Methods and Standards (VSTMS) Workstream
 
 The [Atlas of Variant Effects (AVE) Alliance](https://www.varianteffect.org) aims to propel systematic and extensive measurement and analysis of the impact of genetic variants on functional elements of human, model organism and pathogen genomes, to further the understanding of genes, gene products and their regulation and empower the diagnosis and treatment of human disease.
 
-The Variant Scoring Tools and Methods (VSTM) workstream develops strategies to assess variant scoring, error estimation and visualization methods.  VSTM will evaluate the impact of experimental design choices like library complexity, number of independent cells and sequencing depth on the accuracy of scoring and error estimation. VSTM will also be responsible for developing reporting standards to enable evaluation of the quality of MAVE datasets in terms of internal controls, replicability and minimal information to be included.
+The Variant Scoring Tools, Methods and Standards (VSTMS) workstream develops strategies to assess variant scoring, error estimation and visualization methods.  VSTMS will evaluate the impact of experimental design choices like library complexity, number of independent cells and sequencing depth on the accuracy of scoring and error estimation. VSTMS will also be responsible for developing reporting standards to enable evaluation of the quality of MAVE datasets in terms of internal controls, replicability and minimal information to be included.
 
 Members of this group:
 
@@ -17,7 +17,7 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 Please visit the [AVE Alliance website](https://www.varianteffect.org/work-streams) for information on other workstreams.
 
 ### Workstream Lead(s): 
-* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20VSTM%20Workstream)
+* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20VSTMS%20Workstream)
 
 ### Workstream Members:
 * TBA
