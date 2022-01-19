@@ -17,7 +17,23 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
 
 ### Workstream Lead(s): 
-* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20AMP%20Workstream)
+* Debbie Marks (co-chair)
+* BenLehner (co-chair)
+
+### Project Manager: 
+* [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20AMP%20Workstream)
 
 ### Workstream Members:
-* TBA
+* Debbie Marks (co-chair)
+* BenLehner (co-chair) 
+* Joseph Marsh 
+* Anshul Kundaje 
+* Barak Cohen 
+* Kresten Lindorff-Larsen 
+* Nilah Monnier Ioannidis 
+* David McCandlish 
+* Orli Bahcall 
+* Mafalda Dias 
+* Jonathan Frazer 
+* Justin Kinney 
+* Hannah Carter 
