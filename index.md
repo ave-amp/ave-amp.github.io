@@ -18,14 +18,14 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 
 ### Workstream Lead(s): 
 * Debbie Marks (co-chair)
-* BenLehner (co-chair)
+* Ben Lehner (co-chair)
 
 ### Project Manager: 
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20AMP%20Workstream)
 
 ### Workstream Members:
 * Debbie Marks (co-chair)
-* BenLehner (co-chair) 
+* Ben Lehner (co-chair) 
 * Joseph Marsh 
 * Anshul Kundaje 
 * Barak Cohen 
