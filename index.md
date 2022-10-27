@@ -2,7 +2,7 @@
 
 The [Atlas of Variant Effects (AVE) Alliance](https://www.varianteffect.org) aims to propel systematic and extensive measurement and analysis of the impact of genetic variants on functional elements of human, model organism and pathogen genomes, to further the understanding of genes, gene products and their regulation and empower the diagnosis and treatment of human disease.
 
-The Analysis, Modelling and Prediction (AMP) Workstream (formerly known as Variant Scoring Tools, Methods and Standards workstream) develops strategies to assess variant scoring, error estimation and visualization methods.  AMP will evaluate the impact of experimental design choices like library complexity, number of independent cells and sequencing depth on the accuracy of scoring and error estimation. AMP will also be responsible for developing reporting standards to enable evaluation of the quality of MAVE datasets in terms of internal controls, replicability and minimal information to be included.
+The Analysis, Modelling and Prediction (AMP) Workstream (formerly known as Variant Scoring Tools, Methods and Standards workstream) develops strategies to assess variant scoring, error estimation and visualization methods. AMP will evaluate the impact of experimental design choices like library complexity, number of independent cells and sequencing depth on the accuracy of scoring and error estimation. AMP will also be responsible for developing reporting standards to enable evaluation of the quality of MAVE datasets in terms of internal controls, replicability and minimal information to be included.
 
 Members of this group:
 
@@ -24,14 +24,21 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 ### Workstream Members:
 * Debbie Marks (co-chair)
 * Ben Lehner (co-chair) 
-* Joseph Marsh 
-* Anshul Kundaje 
-* Barak Cohen 
-* Kresten Lindorff-Larsen 
-* Nilah Monnier Ioannidis 
-* David McCandlish 
 * Orli Bahcall 
+* Hannah Carter
+* Barak Cohen 
 * Mafalda Dias 
 * Jonathan Frazer 
+* Nilah Monnier Ioannidis 
 * Justin Kinney 
-* Hannah Carter 
+* Sushant Kumar
+* Anshul Kundaje 
+* Kresten Lindorff-Larsen 
+* Joseph Marsh 
+* David McCandlish 
+* Victoria Offord 
+* Fabrizio Pucci 
+* Craig Smail
+* Jimmie Ye
+* Juannan Zhou
+Former members: Leopold Parts
