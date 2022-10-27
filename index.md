@@ -41,4 +41,4 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * Craig Smail
 * Jimmie Ye
 * Juannan Zhou
-Former members: Leopold Parts
+* Former members: Leopold Parts
