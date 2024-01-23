@@ -14,7 +14,7 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on this and other workstreams.
 
-### Workstream Leaderships: 
+### Workstream Leadership: 
 * [AMP Leadership](https://www.varianteffect.org/chairs)
 
 ### Project Manager: 
