@@ -12,28 +12,11 @@ Members of this group:
 
 All members are expected to follow the [AVE Code of Conduct](https://www.varianteffect.org/code-of-conduct).
 
-Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
+Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on this and other workstreams.
 
-### Workstream Lead(s): 
-* Joseph Marsh (chair)
+### Workstream Leaderships: 
+* [AMP Leadership](https://www.varianteffect.org/chairs)
 
 ### Project Manager: 
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20AMP%20Workstream)
 
-### Workstream Members:
-* Joseph Marsh (chair)
-* Debbie Marks (previous co-chair)
-* Ben Lehner (previous co-chair) 
-* Hannah Carter
-* Mafalda Dias 
-* Jonathan Frazer 
-* Justin Kinney 
-* Sushant Kumar
-* Kresten Lindorff-Larsen 
-* David McCandlish 
-* Victoria Offord 
-* Fabrizio Pucci 
-* Craig Smail
-* Jimmie Ye
-* Juannan Zhou
-* Former members: Anshul Kundaje, Orli Bahcall, Barak Cohen, Nilah Monnier Ioannidis, Anshul Kundaje, Leopold Parts
