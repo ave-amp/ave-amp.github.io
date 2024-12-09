@@ -16,6 +16,7 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 
 ### Workstream Leadership: 
 * [AMP Leadership](https://www.varianteffect.org/chairs)
+* [AMP Members](https://www.varianteffect.org/workstreams)
 
 ### Project Manager: 
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20AMP%20Workstream)
